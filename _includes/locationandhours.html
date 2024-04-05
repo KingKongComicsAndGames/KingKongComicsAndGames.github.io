@@ -1,0 +1,5 @@
+<div class="location-and-hours">
+    {% include editables/map.html %}
+    {% capture hours_content %}{% include editables/hours.md %}{% endcapture %}
+    {{ hours_content | markdownify }}
+</div>

@@ -1,0 +1,3 @@
+# The Owner
+
+Kerry owned KK's comics in the late 1980's and early 1990's in Pleasanton, CA.  After getting his Masters in Kinesiology, he started teaching and realized that there simply weren't enough hours in the day to run a business full time and teach full time so, Kerry decided to chase after kids as a PE teacher and coach.  For 30+ years, Kerry has been doing just that, but as the years have gone by, he has found it harder and harder to keep running after young people!  Recently, with Cindy as his partner, Kerry is back from his long comic hiatus and is the owner of a comics and game store again.

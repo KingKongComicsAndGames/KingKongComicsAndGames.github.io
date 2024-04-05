@@ -1,0 +1,17 @@
+---
+title: "About"
+
+layout: page
+
+permalink: /about
+---
+
+<section class="site-section first-section">
+    {% capture history_content %}{% include editables/history.md %}{% endcapture %}
+    {{ history_content | markdownify }}
+</section>
+
+<section class="site-section alternative-color">
+    {% capture owner_content %}{% include editables/owner.md %}{% endcapture %}
+    {{ owner_content | markdownify }}
+</section>
